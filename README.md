@@ -11,7 +11,7 @@ Formado em Computação Gráfica em 2021 pela school of art game and animation (
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/Git-fff?style=for-the-badge&logo=Git)
 
-## Contato Para Trabalho
+## Contato
 ![E-mail](https://img.shields.io/badge/-Email-fff?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)
             
   gabrielcostasilva45@gmail.com
