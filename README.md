@@ -1,5 +1,5 @@
 # Gabriel costa da silva
-Formado em Computação Gráfica em 2021 pela school of art game and animation (saga), atualmente estou focado em programação voltada para o Back-end.
+Formado em Computação Gráfica em 2023 pela Escola Saga, atualmente sou estudante da UFBA do curso Interdiciplinar em ciência e Tecnologia.
 
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gabriel-costa-/)
