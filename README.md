@@ -22,5 +22,4 @@ Formado em Computação Gráfica em 2023 pela Escola Saga, atualmente sou estuda
 
 ## Minhas contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielcscs&repo=DecodificadorGabriel&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gabrielcscs/DecodificadorGabriel)
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielcscs&repo=Jogo-Do-Numero-Secreto&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gabrielcscs/Jogo-Do-Numero-Secreto) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabrielcscs&repo=DecodificadorGabriel&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Gabrielcscs/DecodificadorGabriel)
